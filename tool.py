@@ -5,7 +5,7 @@ import time
 import random
 import ast
 
-ak = "aFaqYWrHdIt4lF4x2aDmyA85OH6YCANj" #百度地图API访问AK
+ak = "你的AK" #百度地图API访问AK
 
 #按条件检索给定范围内所有地点
 def searchPositions(ak, region, keyWord):
