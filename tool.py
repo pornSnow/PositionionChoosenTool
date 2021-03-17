@@ -78,7 +78,7 @@ if __name__ == "__main__":
                 index=random.randint(0,len(posList)-1)
                 print('已为你选出一个随机的任务地点')
                 print('名称：' + posList[index]['name'])
-                print('名称：' + posList[index]['address'])
+                print('地点：' + posList[index]['address'])
         print('')
             
         
