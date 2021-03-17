@@ -33,7 +33,7 @@ def searchPositions(ak, region, keyWord):
 
 if __name__ == "__main__":
     print('+++++++++++++++++++++++++++++++++++++++++++')
-    print('+           任务地点随机生成工具            +')
+    print('+          任务地点随机生成工具           +')
     print('+                ver 1.0                  +')
     print('+                                         +')
     print('+                     powered by 江雪     +')
